@@ -1,4 +1,4 @@
-# 更新用户信息
+# 创建 Journey
 
 **URL** `/journey/create`
 
@@ -31,12 +31,11 @@
     "description":"string",
     "userId": 0,
     "waypoints":[
-        {
-          "label":"place-name",
-          "time":"8-0",
-          "coordinate": "(45, 45)"
-        },
-        "..."
+      {
+        "label":"place-name",
+        "time":"8-0",
+        "coordinate": "(45, 45)"
+      }
     ]
   }
   ```
