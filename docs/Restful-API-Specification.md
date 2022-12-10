@@ -23,6 +23,7 @@ Inspired by [@jamescooke](https://github.com/jamescooke)'s [restapidocs](https:/
 ## 内容管理
 
 + [获取用户的 Journey](./content/journey/get-by-user.md) `GET /journey/getByUser`
++ [随机获取一定数量的 Journey](./content/journey/get-by-seed.md) `GET /journey/getByUser`
 + [创建 Journey](./content/journey/create-journey.md) `POST /journey/create`
 
 ## 评论系统
